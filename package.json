@@ -1,0 +1,13 @@
+{
+    "name": "learning-algorighms",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "ubzor <forubz@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "test": "vitest"
+    },
+    "devDependencies": {
+        "vitest": "^2.1.2"
+    }
+}
